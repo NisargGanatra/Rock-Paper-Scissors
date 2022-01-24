@@ -79,8 +79,7 @@ body{
         background-color: #cccccc;
         color: #666666;
     }
-
-/* @media(max-width:998px){
+ @media(max-width:998px){
         html{
                 font-size: 55%;
         }
@@ -105,8 +104,7 @@ body{
                
                 }
 }
- */
-/* @media(max-width:768px){
+ @media(max-width:768px){
         html{
                 font-size: 45%;
         }
@@ -130,9 +128,9 @@ body{
                 
                
                 }
-} */
+} 
 
-/* @media(max-width:667px){
+@media(max-width:667px){
         html{
                 font-size: 30%;
         }
@@ -152,4 +150,4 @@ body{
                
                 }
 
-} */
+}
